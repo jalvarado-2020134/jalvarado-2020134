@@ -3,7 +3,7 @@
 
 ```javascript
 const josueAlvarado = {
-  name: "Josue",
+  name: "Josue Daniel Alvarado Cabrera",
   age: "18" ,
   collegeData: {
                         college: "Centro Educativo Técnico Laboral Kinal",
