@@ -1,5 +1,6 @@
-![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
 ### Hi there 👋
+
+![](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif)
 
 <!--
 **jalvarado-2020134/jalvarado-2020134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
